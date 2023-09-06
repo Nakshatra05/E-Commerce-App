@@ -25,4 +25,4 @@ CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 
-## Made with help of Youtube Tutorials of Abhi Singh
+Made with help of Youtube Tutorials of Abhi Singh
